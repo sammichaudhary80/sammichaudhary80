@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sammi Chaudhary</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
-- 🌱 I’m currently learning **Data Analytics**
+- 🌱 I’m currently learning **Analytics tools- SQL / MySQL, MS Excel, Python, Data Visualization & Reporting, Tableau**
 
 - 📫 How to reach me **chaudharysammi6@gmail.com**
 
